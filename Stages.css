@@ -1,0 +1,92 @@
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background: ;
+    /*font-family: 'Playfair Display', serif;*/
+    font-family: 'Open Sans', sans-serif;
+}
+
+#back {
+    background-image: linear-gradient(to right, red, orange);
+    height: 32px;
+    background-position: center;
+    display: block;
+
+}
+
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 135px;
+}
+
+#titre1 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    font-size: 23px;
+    color: white;
+}
+
+#para1 {
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+#fond {
+    background-image: linear-gradient(to right, red, orange);
+    height: 167px;
+}
+
+#margin {
+    width: 990px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#logo2 {
+    float: right;
+    margin-right: 5px;
+    margin-top: 5px;
+    height: 150;
+    width: 150px;
+}
+
+#menu li {
+    display: inline-block;
+    margin-top: 70px;
+    margin-right: 50px;
+
+}
+
+#menu li a {
+    color: white;
+    text-decoration: none;
+}
+
+#menu {
+    margin-left: 25px;
+    padding-left: 0px;
+}
+
+.groupe
+{
+    width: 310px;
+    height: 199px;
+     
+}
+
+#zoneimage {
+    text-align: center;
+}

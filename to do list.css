@@ -1,0 +1,21 @@
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background: ;
+    /*font-family: 'Playfair Display', serif;*/
+    font-family: 'Open Sans', sans-serif;
+}
+
+#To {
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
+.from {
+    text-align: center;
+    width: 50px;
+}
+
